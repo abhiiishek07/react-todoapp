@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+After creating this app, I learnt:
+  Props & Components
+  mangaing useState
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
